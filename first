@@ -1,0 +1,9 @@
+clg=int(input("enter clg"))
+b=input("enter branch")
+ba=int(input("no of back logs"))
+y=int(input("no  of years"))
+if(clg==1):
+    if((b=="cse" or b=="it") and ba==0 and y==4):
+        print("selected")
+    else:
+        print("not selected")
