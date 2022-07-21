@@ -1,0 +1,9 @@
+>>> import math
+>>> math.sqrt(100)
+10.0
+>>> import math as a
+>>> a.sqrt(100)
+10.0
+>>> from math import *
+>>> sqrt(100)
+10.0
