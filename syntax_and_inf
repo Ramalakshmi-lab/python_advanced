@@ -13,3 +13,6 @@ valueerror
 nameerror
 filenotfound
 indexerror
+
+to use functions in another
+from funs import*
